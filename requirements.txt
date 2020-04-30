@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 pytest
 pytest-cov
 pylint
-=======
-# hw
-pytest
-pytest-cov
-pylint
->>>>>>> 40285c8144741cce3a4e73ab35d0016f74f66b77
+
