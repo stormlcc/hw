@@ -1,4 +1,5 @@
 # content of test_sample.py
+"""Execute test"""
 def func(x):
     return x + 1
 
